@@ -16,7 +16,7 @@
 <img width="628" height="694" alt="image" src="https://github.com/user-attachments/assets/f6bd21d1-5f75-40a6-aa64-f3bc65293691" />
 
 # RESULT
-![Uploading Screenshot 2025-12-01 095855.png…]()
+Thus the  full wave rectifier eith and without filter is simulated using tinkercad and the wave forms are plotted 
 
 # OUTPUT
 <img width="1341" height="683" alt="image" src="https://github.com/user-attachments/assets/5d90c36c-291c-4d7b-8763-6b808d5f9ae3" />
